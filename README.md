@@ -1,4 +1,4 @@
-# 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 𝙻𝙸𝚂𝚃 𝚁𝙰𝚆 𝙳𝙰𝚃𝙰 [𝚄𝙸𝙳|𝙽𝙰𝙼𝙴] 𝙴𝚇𝚃𝚁𝙰𝙲𝚃 𝚃𝙾𝙾𝙻 𝙱𝚈 𝚂𝙷𝙰𝙹𝙾𝙽.
+# 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 𝙻𝙸𝚂𝚃 𝚁𝙰𝚆 𝙳𝙰𝚃𝙰 [𝚄𝙸𝙳|𝙽𝙰𝙼𝙴] 𝙴𝚇𝚃𝚁𝙰𝙲𝚃 𝚃𝙾𝙾𝙻 𝙱𝚈 ABiR.
 
 ## 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : python3.13
 <p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
@@ -26,7 +26,7 @@
 ```
 cd $HOME
 rm -rf FILE
-git clone --depth=1 https://github.com/SHAJON-404/FILE.git
+git clone --depth=1 https://github.com/ARS-termux-zone2017/FILE.git
 cd FILE
 chmod 777 FILE
 ./FILE
